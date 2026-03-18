@@ -16,7 +16,7 @@ To explore trends in salaries, job titles, and work satisfaction levels in the d
 - Professionals with strong technical skills reported higher job satisfaction.
 
 ## Dashboard Preview
-![Dashboard](Data Professional Dashboard.png)
+![Dashboard](dashboard_preview.png)
 
 ## Dataset
 The dataset contains survey responses from data professionals across multiple roles including Data Analysts, Data Scientists, and Data Engineers.
