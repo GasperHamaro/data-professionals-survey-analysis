@@ -14,9 +14,9 @@ To explore trends in salaries, job titles, and work satisfaction levels in the d
 - Data Scientists reported the highest average salaries.
 - Data Analysts represented the largest share of respondents.
 - Professionals with strong technical skills reported higher job satisfaction.
-  
+
 ## Dashboard Preview
-![Dashboard](images/Data Professional Dashboard.png)
+![Dashboard](Data Professional Dashboard.png)
 
 ## Dataset
 The dataset contains survey responses from data professionals across multiple roles including Data Analysts, Data Scientists, and Data Engineers.
